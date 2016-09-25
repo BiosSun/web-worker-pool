@@ -1,0 +1,21 @@
+{
+  "name": "web-worker-pool",
+  "version": "0.1.0",
+  "title": "WebWorker Pool",
+  "description": "a WebWorker Pool utils.",
+  "main": "index.js",
+  "keywords": [
+    "webworker",
+    "pool",
+    "thread"
+  ],
+  "author": {
+    "name": "Bios Sun",
+    "email": "biossun@gmail.com",
+    "url": "http://biossun.org"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/BiosSun/worker-pool/blob/master/LICENSE"
+  }
+}
