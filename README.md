@@ -2,6 +2,12 @@
 
 一个简单的线程池模块，用于统一的维护多个线程。
 
+## 安装
+
+```shell
+$ npm install web-worker-pool
+```
+
 ## 示例
 
 ```javascript
